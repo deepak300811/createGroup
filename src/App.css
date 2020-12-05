@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.container {
+  max-width: 1100px;
+  background-color: var(--Very-Dark-Blue-Dark-Mode-Background);
+  margin: auto;
 }
